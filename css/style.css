@@ -287,7 +287,7 @@ h1 {
 .formhtml5 {
     width: 50%;
     margin: 0 auto;
-    background-color: aquamarine;
+    background-color: rgb(71, 227, 255);
 }
 .formhtml5 legend {
     background-color: rgb(6, 6, 71);
@@ -295,8 +295,8 @@ h1 {
     font-size: 22px;
 }
 .formhtml5 label {
-    background-color: rgb(1, 65, 40);
-    color: rgb(191, 243, 204);
+    background-color: rgb(255, 1, 1);
+    color: rgb(255, 255, 255);
     font-size: 16px;
 }
 .btn {
@@ -310,8 +310,8 @@ h1 {
     color: white;
 }
 .btn-green {
-    background-color: rgb(4, 44, 14);
-    color: rgb(177, 245, 174);
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
 }
 .col3 {
     width: 33.3%;
